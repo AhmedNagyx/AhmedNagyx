@@ -5,9 +5,9 @@
 ​👨‍🎓 Third-year Computer Science student at El Shorouk Higher Institute of Computer Science & Information Technology. <br/>
 💯 Current grade of Very Good. <br/>
 💻 Full-Stack developer. <br/>
-🗃️ SQL Server (Database) <br/>
-🌐 C# / .NET (Back-End) <br/>
-🖼️ Angular (Front-End) <br/>
+🗃️ SQL Server (Database). <br/>
+🌐 C# / .NET (Back-End). <br/>
+🖼️ Angular (Front-End). <br/>
 👓 Football fan, Gamer and Poet. <br/>
 🏆 Participant in multiple literature competitions. <br/>
 
