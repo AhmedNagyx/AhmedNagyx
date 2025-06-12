@@ -1,6 +1,6 @@
 ## Hi, I'm Ahmed 👋
 
-⏲️ Currently building an ASP.NET MVC project. <br/>
+⏲️ Currently practicing on ASP.NET MVC. <br/>
 
 ​👨‍🎓 Third-year Computer Science student at El Shorouk Higher Institute of Computer Science & Information Technology. <br/>
 💯 Current grade of Very Good. <br/>
